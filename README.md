@@ -1,1 +1,5 @@
-# full-stack-journey
+# My Full Stack Journey
+
+I am starting my journey to become a Full Stack Developer.
+
+Day 1: Learned Git and GitHub.
